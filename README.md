@@ -8,4 +8,4 @@ PENGGUNAAN
 - Anda bisa melihat contoh hasil pengisian dengan menekan "Isi Contoh Data" pada bagan berwarna kuning.
 
 AI
-
+https://share.gemini.google/k4HRwX6NIhMD
